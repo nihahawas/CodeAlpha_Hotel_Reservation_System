@@ -1,4 +1,10 @@
-# 🏨 Grand Horizon Hotel — Reservation Management System
+# 🏨 Hotel — Reservation Management System
+
+<img width="1522" height="983" alt="image" src="https://github.com/user-attachments/assets/bd9a29c4-94b9-4d97-bf1f-5eafe4ffd083" />
+
+<img width="937" height="675" alt="image" src="https://github.com/user-attachments/assets/e89fa45f-2328-4542-919a-bac08698d9f8" />
+
+
 ### CodeAlpha Java Internship — Task 4
 
 ---
@@ -143,9 +149,9 @@ MAIN MENU
 
 ## 👤 Author
 
-- **Name:** Niha Wahid
+- **Name:** Niha Hawas
 - **Internship:** CodeAlpha — Java Programming Task 4
-- **GitHub:** [Your GitHub Profile]
+- **GitHub:** https://github.com/nihahawas
 
 ---
 
